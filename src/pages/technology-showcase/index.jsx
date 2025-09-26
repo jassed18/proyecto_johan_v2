@@ -6,7 +6,7 @@ import Header from '../../components/ui/Header';
 import InstagramChatWidget from '../../components/ui/InstagramChatWidget';
 import TechnologyCard from './components/TechnologyCard';
 import IntegrationShowcase from './components/IntegrationShowcase';
-import CapabilitiesMatrix from './components/CapabilitiesMatrix';
+import CapabilitiesMatrix from './components/capabilitiesMatrix';
 import InteractiveDemo from './components/InteractiveDemo';
 import CertificationBadges from './components/CertificationBadges';
 
